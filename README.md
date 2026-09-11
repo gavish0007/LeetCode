@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gavish0007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/gavish0007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gavish0007/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gavish0007/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/gavish0007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gavish0007/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
