@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gavish0007/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gavish0007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/gavish0007/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gavish0007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/gavish0007/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -42,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gavish0007/LeetCode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gavish0007/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/gavish0007/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
